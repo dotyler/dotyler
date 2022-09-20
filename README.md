@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software, Hardware, and everything IoT.
 - 🌱 I’m currently learning how to develop web applications using different frameworks
 - 💞️ I’m looking to collaborate on hackathons, small projects, and more!
-- 🔬 
+- 🔬 I'm working towards a couple research papers, so come back soon when they release! 
 <!-- - 📫 How to reach me ... -->
 
 <!---
